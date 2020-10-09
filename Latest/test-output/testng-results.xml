@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-09T17:03:47 IST" name="Command line suite" finished-at="2020-10-09T17:03:58 IST" duration-ms="11425">
+    <groups>
+    </groups>
+    <test started-at="2020-10-09T17:03:47 IST" name="Command line test" finished-at="2020-10-09T17:03:58 IST" duration-ms="11425">
+      <class name="com.pipeline.First">
+        <test-method signature="getBrowserlaunch()[pri:0, instance:com.pipeline.First@57fffcd7]" started-at="2020-10-09T17:03:47 IST" name="getBrowserlaunch" finished-at="2020-10-09T17:03:58 IST" duration-ms="11304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowserlaunch -->
+      </class> <!-- com.pipeline.First -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
